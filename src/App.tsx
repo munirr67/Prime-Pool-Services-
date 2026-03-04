@@ -12,7 +12,7 @@ const services = [
   {
     title: "Commercial Pool Services",
     desc: "High-traffic pools require expert care to meet safety standards and health code requirements. We specialize in commercial pool service designed to keep facilities compliant, reliable, and guest-ready during peak usage.",
-    img: "https://unsplash.com/photos/stainless-steel-railings-on-swimming-pool-JhcQHSBMask?q=80&w=800&auto=format&fit=crop"
+    img: "https://unsplash.com/photos/stainless-steel-railings-on-swimming-pool-JhcQHSBMask"
   },
   {
     title: "Pool Maintenance",

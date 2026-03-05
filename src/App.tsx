@@ -527,7 +527,7 @@ export default function App() {
             >
               <div className="relative rounded-3xl overflow-hidden shadow-[0_8px_30px_rgb(0,0,0,0.06)] aspect-[4/3] lg:aspect-[4/5]">
                 <img 
-                  src="https://images.unsplash.com/photo-1533481405265-e9ce0c044abb?q=80&w=1000&auto=format&fit=crop" 
+                  src="https://cdn.pixabay.com/photo/2014/04/23/10/09/pool-cleaning-330399_1280.jpg" 
                   alt="Pristine pool water" 
                   className="absolute inset-0 w-full h-full object-cover"
                 />

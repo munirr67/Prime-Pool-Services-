@@ -7,22 +7,22 @@ const services = [
   {
     title: "Residential Pool Care",
     desc: "Enjoy a pool that’s always clean, safe, and ready for family time or entertaining guests. Our residential pool services are handled by trained professionals who care for your pool as if it were their own.",
-    img: "anon-bob-2_a_Ultra-realistic_prof (1).png"
+    img: "https://images.unsplash.com/photo-1762539744669-cb85948f1675?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     title: "Commercial Pool Services",
     desc: "High-traffic pools require expert care to meet safety standards and health code requirements. We specialize in commercial pool service designed to keep facilities compliant, reliable, and guest-ready during peak usage.",
-    img: "https://images.unsplash.com/photo-1621245700087-a8617f91cdbe?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    img: "https://images.unsplash.com/photo-1566241071936-43fe3ea56f39?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     title: "Pool Maintenance",
     desc: "Protect your investment with professional pool maintenance from an established Austin-based company. From routine inspections to ongoing care, we service pools of all sizes using proven systems and industry best practices.",
-    img: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?q=80&w=800&auto=format&fit=crop"
+    img: "https://cdn.pixabay.com/photo/2014/04/23/10/09/pool-cleaning-330399_960_720.jpg"
   },
   {
     title: "Pool Repair",
     desc: "Our factory-trained repair specialists quickly diagnose and fix pool issues before they turn into costly problems. Schedule a service call today and get your pool back to stress-free operation.",
-    img: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?q=80&w=800&auto=format&fit=crop"
+    img: "https://pixabay.com/images/download/kollinger-child-6353515_1920.jpg"
   }
 ];
 

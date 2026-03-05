@@ -22,7 +22,7 @@ const services = [
   {
     title: "Pool Repair",
     desc: "Our factory-trained repair specialists quickly diagnose and fix pool issues before they turn into costly problems. Schedule a service call today and get your pool back to stress-free operation.",
-    img: "https://pixabay.com/images/download/kollinger-child-6353515_1920.jpg"
+    img: "https://cdn.pixabay.com/photo/2021/06/21/12/28/child-6353515_1280.jpg"
   }
 ];
 

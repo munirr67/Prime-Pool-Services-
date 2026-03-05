@@ -144,7 +144,7 @@ export default function App() {
         {/* Background Image */}
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://cdn.pixabay.com/photo/2021/06/21/12/28/child-6353515_1280.jpg" 
+            src="https://cdn.pixabay.com/photo/2014/03/12/18/27/swimming-286215_1280.jpg" 
             alt="Pristine swimming pool" 
             className="w-full h-full object-cover object-center"
           />
